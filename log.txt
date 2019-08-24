@@ -1,0 +1,32 @@
+
+-----------------------------------------------------------------
+Concert Information: 
+Venue Name: LADY GAGA ENIGMA
+Venue Location: Las Vegas
+Date of Event: 10/17/2019
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Song Information:
+Artist(s): Charli XCX
+Song Name: Cross You Out (feat. Sky Ferreira)
+Preview Link: https://api.spotify.com/v1/tracks/4Il330n53GprIcAO2GzwTN
+Album: Cross You Out (feat. Sky Ferreira)
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Movie Information
+Title: The Lion King
+Release Year: 1994
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 93%
+Country where movie was produced: USA
+Language of the Movie: English, Swahili, Xhosa, Zulu
+Move Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+Song Information:
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview Link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album: The Hits--Chapter One
+-----------------------------------------------------------------
